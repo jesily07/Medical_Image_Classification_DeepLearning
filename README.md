@@ -64,9 +64,9 @@ Data Source → Data Preprocessing → Model Training → Evaluation → Grad-CA
       Dense(3, activation='softmax')
   ])
 
-Optimizer: Adam (lr = 1e-4)
-Loss Function: Categorical Crossentropy
-Metrics: Accuracy, Precision, Recall
+- Optimizer: Adam (lr = 1e-4)
+- Loss Function: Categorical Crossentropy
+- Metrics: Accuracy, Precision, Recall
 
 ---
 
