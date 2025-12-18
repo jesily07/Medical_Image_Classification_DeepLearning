@@ -126,6 +126,5 @@ streamlit run streamlit_app.py
 
 Note: 
 - The fine-tuned model (final_resnet50_finetuned.h5) is excluded from the repo due to size (>100 MB).
-- For portfolio use, the model can be downloaded manually if needed.
 
 ---
